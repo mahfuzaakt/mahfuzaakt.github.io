@@ -1,6 +1,5 @@
 ---
-title: "
-Effects of Azadirachta indica, Allium cepa and Ocimum tenuiflorum extracts on biofilm inhibition and degradation."
+title: "Effects of Azadirachta indica, Allium cepa and Ocimum tenuiflorum extracts on biofilm inhibition and degradation."
 collection: publications
 permalink: /publication/2015-08-25-Effects-of-Azadirachta-indica
 excerpt: 'Microorganisms tend to develop antibiotic resistance more rapidly within biofilm than their planktonic
