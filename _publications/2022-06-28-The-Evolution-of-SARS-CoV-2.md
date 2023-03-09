@@ -1,6 +1,5 @@
 ---
-title: "Spatial structure affects evolutionary dynamics and drives genomic diversity in experimental populations of
-Pseudomonas fluorescens"
+title: "The Evolution of SARS-CoV-2"
 collection: publications
 permalink: /publication/2021-09-29-Spatial-structure-affects-evolutionary-dynamics
 excerpt: 'Most populations live in spatially structured environments and that structure has the potential to impact the

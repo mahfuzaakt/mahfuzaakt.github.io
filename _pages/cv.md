@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Genetic Engineering & Biotechnology, Shahjalal University of Science & Technology, 2012
+* M.Sc. in Genetic Engineering & Biotechnology, Shahjalal University of Science & Technology, 2013
+* Erasmus Mundus MSc in Marine Environment and Resources, The University of the Basque Country, 2017
+* Ph.D in Interdisciplinary Bioscience and Biotechnology, Clarkson University, 2023 (expected)
 
 Work experience
 ======
