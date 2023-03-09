@@ -1,12 +1,17 @@
 ---
-title: "Spatial structure affects evolutionary dynamics and drives genomic diversity in experimental populations of Pseudomonas fluorescens"
+title: "Spatial structure affects evolutionary dynamics and drives genomic diversity in experimental populations of
+Pseudomonas fluorescens"
 collection: publications
 permalink: /publication/2021-09-29-Spatial-structure-affects-evolutionary-dynamics
-excerpt: 'Most populations live in spatially structured environments and that structure has the potential to impact the evolutionary dynamics in a number of important ways. Theoretical models tracking evolution in structured environments using a range of different approaches'
+excerpt: 'Most populations live in spatially structured environments and that structure has the potential to impact the
+evolutionary dynamics in a number of important ways. Theoretical models tracking evolution in structured environments
+using a range of different approaches'
 date: 2021-09-29
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2021.09.28.461808v1.abstract'
-citation: 'Bailey SF, Trudeau A, Tulowiecki K, McGrath M, Belle A, Fountain H, Akter M. 2021 Spatial structure affects evolutionary dynamics and drives genomic diversity in experimental populations of Pseudomonas fluorescens. bioRxiv. (doi:10.1101/2021.09.28.461808)'
+citation: 'Bailey SF, Trudeau A, Tulowiecki K, McGrath M, Belle A, Fountain H, Akter M. 2021 Spatial structure affects
+evolutionary dynamics and drives genomic diversity in experimental populations of Pseudomonas fluorescens. bioRxiv. (
+doi:10.1101/2021.09.28.461808)'
 ---
 Most populations live in spatially structured environments and that structure has the potential
 to impact the evolutionary dynamics in a number of important ways. Theoretical models tracking
@@ -26,4 +31,6 @@ evolutionary dynamics at both the phenotypic and genomic level.
 
 [Download paper here](https://web.archive.org/web/20220519202623id_/https://www.biorxiv.org/content/biorxiv/early/2021/09/29/2021.09.28.461808.full.pdf)
 
-Recommended citation: Bailey SF, Trudeau A, Tulowiecki K, McGrath M, Belle A, Fountain H, Akter M. 2021 Spatial structure affects evolutionary dynamics and drives genomic diversity in experimental populations of Pseudomonas fluorescens. bioRxiv. (doi:10.1101/2021.09.28.461808)
+Recommended citation: Bailey SF, Trudeau A, Tulowiecki K, McGrath M, Belle A, Fountain H, Akter M. 2021 Spatial
+structure affects evolutionary dynamics and drives genomic diversity in experimental populations of Pseudomonas
+fluorescens. bioRxiv. (doi:10.1101/2021.09.28.461808)
